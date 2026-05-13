@@ -1,5 +1,13 @@
-ROUTER# tclsh flash:01-BF-tclscript.tcl
+#### command
 
+```
+tclsh flash:01-BF-tclscript.tcl
+```
+
+#### output
+
+```
+ROUTER# tclsh flash:01-BF-tclscript.tcl
 
 --- STEP 1: 20260512, 230501: Running script BF changes ---
 --- --- STEP 1.1: Script initialization: set hostname, date/time, log filter ---
@@ -49,3 +57,4 @@ ROUTER# tclsh flash:01-BF-tclscript.tcl
 ------------------------------------------------------------
 
 ROUTER#
+```
