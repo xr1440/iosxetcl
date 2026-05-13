@@ -1,3 +1,12 @@
+#### command
+
+```
+tclsh flash:02-AF-tclscript.tcl
+```
+
+#### output
+
+```
 ROUTER# tclsh flash:02-AF-tclscript.tcl
 
 --- STEP 1: 20260512, 234510: Running script AF changes ---
@@ -72,3 +81,4 @@ ROUTER# tclsh flash:02-AF-tclscript.tcl
 --- STEP 13: SCRIPT COMPLETED ---
 
 ROUTER#
+```
